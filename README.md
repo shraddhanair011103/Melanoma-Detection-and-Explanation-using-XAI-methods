@@ -1,0 +1,2 @@
+∗ Designed and implemented a melanoma classification system using deep learning models including ResNet50, Efficient Net, ViT, and VGG-16, incorporating image preprocessing techniques such as resizing and normalization to improve model accuracy.
+∗ Utilized explainable AI (XAI) methods—Grad-CAM, LIME, and  to generate interpretable visual explanations, enhancing model transparency and supporting clinical decision-making.
